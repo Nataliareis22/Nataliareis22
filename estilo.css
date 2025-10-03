@@ -56,12 +56,12 @@ main p {
 }
 
 li {
-  background-color: white; /* fundo branco */
-  border: 1px solid #ccc;  /* borda cinza clara */
-  padding: 8px 12px;       /* espaço interno para ficar confortável */
-  margin-bottom: 20px;      /* espaço entre os retângulos */
-  border-radius: 20px;      /* cantos arredondados, opcional */      
-  list-style-type: none;   /* remove o marcador padrão da lista */
+  background-color: white; 
+  border: 1px solid #ccc;  
+  padding: 8px 12px;       
+  margin-bottom: 20px;      
+  border-radius: 20px;           
+  list-style-type: none;   
   justify-content: center;
   display: flex;
 }
@@ -72,8 +72,8 @@ li {
 
 .title {
   border: 2px solid purple; 
-  padding: 10px 20px ;      /* Espaçamento interno para deixar o texto confortável */
-  border-radius: 5px;      /* Opcional: bordas arredondadas */
+  padding: 10px 20px ;      
+  border-radius: 5px;      
   background-color: purple;
   margin-bottom: 50px;
   color: white;
@@ -94,6 +94,7 @@ main h3 {
   padding: 5px 5px 5px 8px;
   display: inline-block;
 }
+
 
 
 
